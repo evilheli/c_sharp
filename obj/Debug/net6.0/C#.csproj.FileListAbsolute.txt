@@ -1,0 +1,15 @@
+/Users/ana.plot/Desktop/GB/C#/bin/Debug/net6.0/C#
+/Users/ana.plot/Desktop/GB/C#/bin/Debug/net6.0/C#.deps.json
+/Users/ana.plot/Desktop/GB/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/Users/ana.plot/Desktop/GB/C#/bin/Debug/net6.0/C#.dll
+/Users/ana.plot/Desktop/GB/C#/bin/Debug/net6.0/C#.pdb
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.dll
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/refint/C#.dll
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.pdb
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/Users/ana.plot/Desktop/GB/C#/obj/Debug/net6.0/ref/C#.dll
